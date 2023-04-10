@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @0815Sailsman
-- 👀 I’m interested in mainly desktop apps or small scripts.
-- 🌱 I’m currently learning more python and java skills. Im also working on may JavaFX skills.
+- ☕ I do alot of java(fx) stuff surrounding my cs degree.
+- 🧠 Other stuff I do is Python and webdev
+- ⚡ Also like to experiment with low-level stuff, like Arduinos and Raspberry Pi.
+- 🔒 FOSS enthusiast and minimalist with almost masochistic tendencies 😉
+- 🌱 I’m currently expanding on my linux knowledge and my job leads me more into webdev.
 
 <!---
 0815Sailsman/0815Sailsman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
