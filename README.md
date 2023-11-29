@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0815Sailsman
 - ☕ I do alot of java(fx) stuff surrounding my cs degree.
-- 🧠 Other stuff I do is Python and webdev
+- 🧠 Other stuff I do is Python and lately **A LOT** of web development with different frameworks
 - ⚡ Also like to experiment with low-level stuff, like Arduinos and Raspberry Pi.
 - 🔒 FOSS enthusiast and minimalist with almost masochistic tendencies 😉
 - 🌱 I’m currently expanding on my linux knowledge and my job leads me more into webdev.
