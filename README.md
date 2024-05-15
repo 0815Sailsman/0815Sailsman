@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @0815Sailsman
-- ☕ I do alot of java(fx) stuff surrounding my cs degree.
-- 🧠 Other stuff I do is Python and lately **A LOT** of web development with different frameworks
-- ⚡ Also like to experiment with low-level stuff, like Arduinos and Raspberry Pi.
-- 🔒 FOSS enthusiast and minimalist with almost masochistic tendencies 😉
-- 🌱 I’m currently expanding on my linux knowledge and my job leads me more into webdev.
+Hi there 👋  
+here you'll find a bunch of personal projects, in the past mainly ✨SL-Route✨ with **Angular** (main framework) and some Rust.  
+Also do / did development with
+- Python
+- Svelte
+- Raw HTML, CSS, JS
+- JavaFX
+
+   
+have some experience with
+ - Haskell
+ - Vaadin
+ - Stencil
+ - Spring in Kotlin
+ - C
+and did a lot of projects spanning across the NXT, EV3, Arduino and RaspberryPi platform.
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0815Sailsman&layout=compact&theme=tokyonight&langs_count=12)  
 I think I commited a little much C that I did not write in the ev3 projects... 😅  
