@@ -8,6 +8,7 @@ Also do / did development with
 
    
 have some experience with
+ - Ktor
  - Haskell
  - Vaadin
  - Stencil
