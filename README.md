@@ -1,5 +1,5 @@
 Hi there 👋  
-here you'll find a bunch of personal projects, but I mostly work on ✨[SL-Route](https://github.com/soulslike-routing/)✨ with **Angular**, my main framework for all things webdev, and recently a ton of **Rust** for memory manipulation and dll injections.
+here you'll find a bunch of personal projects, but I mostly work on ✨[SL-Route](https://github.com/soulslike-routing/)✨ with **Angular**, my main framework for all things webdev, ktor and recently a ton of **Rust** for memory manipulation and dll injections.
 
 Also do / did development with
 - Svelte & Sveltekit
@@ -8,7 +8,7 @@ Also do / did development with
 
    
 have some experience with
- - Ktor
+ - React
  - Haskell
  - Vaadin
  - Stencil
